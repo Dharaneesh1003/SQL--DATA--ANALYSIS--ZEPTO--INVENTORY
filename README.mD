@@ -104,4 +104,8 @@ The primary objective of this project is to demonstrate how "SQL can be used to 
 
 "SQL | PostgreSQL | Data Cleaning | Data Analysis | Exploratory Data Analysis | Business Analysis | Data Aggregation | Inventory Analysis | E-commerce Analytics"
 
+Developed By,
+
+" Dharaneesh A "
+
 
