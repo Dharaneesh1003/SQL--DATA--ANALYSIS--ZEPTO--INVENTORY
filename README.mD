@@ -57,7 +57,7 @@ The project answers several business questions, including:
 * How can products be classified into "Low, Medium, and Bulk weight categories"?
 * What is the "total inventory weight for each category"?
 
-## 💡 Key SQL Concepts Demonstrated
+ Key SQL Concepts Demonstrated
 
 * 'SELECT'
 * 'WHERE'
